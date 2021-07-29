@@ -10,3 +10,23 @@ body {
 }
 
 /* Add styles here! */
+.title {
+  font-size: 1.25rem;
+}
+
+strong {
+  color: hsl(160deg, 100%, 30%);
+}
+
+h1 {
+  padding-bottom: 16px;
+  padding-top: 48px;
+}
+
+.intro-chunk {
+  padding-right: 48px;
+}
+
+body {
+  padding-left: 36px;
+}
